@@ -1,2 +1,2 @@
-# Curso-Python
- Repositório do curso de python, Udemy
+# Curso Python
+ Repositório do curso de Python Básico ao avançado, Udemy.
